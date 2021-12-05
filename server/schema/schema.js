@@ -2,8 +2,9 @@ const graphql = require('graphql');
 
 const { GraphQLObjectType, GraphQLString, GraphQLSchema, GraphQLID, GraphQLInt, GraphQLList, GraphQLNonNull, GraphQLBoolean } = graphql;
 
-const Movies = require('../models/movie');
-const Directors = require('../models/director');
+Movies = require('../models/movie');
+Directors = require('../models/director');
+
 
 const MovieType = new GraphQLObjectType({
   name: 'movie',

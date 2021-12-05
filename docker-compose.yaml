@@ -1,0 +1,12 @@
+version: "3.7"
+services:
+  front:
+    container_name:  front
+    build: application/
+    ports:
+      - '3001:3000'
+  back:
+    container_name:  back
+    build: server/
+    ports:
+      - '3006:3005'

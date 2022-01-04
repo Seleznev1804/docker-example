@@ -16,7 +16,7 @@
 
 > **GraphQL** 
 
-> **MongoDB**: https://www.mongodb.com/products/compass
+> **MongoDB**: https://www.mongodb.com/atlas/database
 
 > **** 
 

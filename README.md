@@ -20,14 +20,14 @@
 
 > **** 
 
-# ЗАПУСК FRONT-END'A
+# ЗАПУСК FRONTEND'A
 ```console
 yarn install
 ```
 ```console
 yarn start
 ```
-# ЗАПУСК BACK-END'A
+# ЗАПУСК BACKEND'A
 ```console
 npm install
 ```
